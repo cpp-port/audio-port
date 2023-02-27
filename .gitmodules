@@ -1,0 +1,3 @@
+[submodule "libmpg123"]
+	path = libmpg123
+	url = ../libmpg123
